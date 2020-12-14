@@ -1,0 +1,25 @@
+label {
+  display: block;
+}
+
+input[type="text"],input[type="number"] {
+  width: 100%;
+}
+
+button {
+  cursor: pointer;
+  background-color: #eee;
+  border: none;
+}
+
+.submit-button-div {
+  margin: 20px 0;
+}
+
+.error-message-div {
+  margin: 20px 0;
+}
+
+td,tr {
+  border: 1px solid #eee;
+}
